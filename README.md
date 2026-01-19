@@ -1,4 +1,4 @@
-# Delphi_EstruturaDeDecisao📌 Delphi – Estruturas de Decisão
+📌 Delphi – Estruturas de Decisão
 
 Este repositório é um projeto de estudo em Delphi criado para praticar e entender melhor o uso das estruturas de decisão da linguagem Object Pascal.
 
